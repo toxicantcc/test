@@ -1,8 +1,16 @@
+<!--
+ * @Author: heweidong 17521287703@163.com
+ * @Date: 2025-11-24 11:39:57
+ * @LastEditors: heweidong 17521287703@163.com
+ * @LastEditTime: 2025-11-24 11:48:46
+ * @FilePath: /test/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # test
 
-## 勇士点击测试页面
+## 点击测试页面
 
-这是一个简单的HTML页面，包含一个"勇士点击测试"按钮。
+这是一个简单的HTML页面，包含一个"点击测试"按钮。
 
 ### 部署到 GitHub Pages
 
